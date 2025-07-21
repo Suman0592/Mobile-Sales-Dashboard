@@ -71,4 +71,5 @@ Excel File (.xlsx) containing raw mobile sales data
 • Manual, time-consuming reporting
 • Delayed decisions due to scattered data
 
-https://github.com/Suman0592/Mobile-Sales-Dashboard/blob/main/Final%20Dashboard.png
+<img width="1156" height="647" alt="Final Dashboard" src="https://github.com/user-attachments/assets/e0ca5f96-79e3-47a0-9ee3-0a1d4188be36" />
+
